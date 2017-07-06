@@ -1,0 +1,9 @@
+{
+	"lang":"en-us",
+	"site_name":"Mosoti Macharia and Co. Advocates",
+	"site_accro":"MMAC ADVOCATES",
+	"copyright":"&copy; Copyright 2017. C.A. Design",
+	"tag_line" : "Tailor made legal solutions",
+	"about_us":"Mosoti Macharia and COmpany Advocates is a law firm domiciled in Nairobi, Kenya. It was founded by two advocates of the High Court of Kenya, namely, Ruth Mosoti (Managing Partner), and Elizabeth Macharia (Partner in charge of competition and Trade Law). <br /><br />The firm has 2 partners and 4 associates and other support stuff.",
+	"publisher_rev_link" : "<a href='http://www.C-A.Net'>CampAnn.Net</a>"
+}

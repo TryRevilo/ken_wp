@@ -1,0 +1,3 @@
+<p>
+	Interpretation, advice and representation (if requested) in relation to litigated and non-litigated claims. Representation in courts (as required). General advice and interpretation regarding policy wording, policy limitation, exclusions, subrogation and denial and client obligations in respect of relevant legislation. General advice on public liability, personal injury (including workers compensation) property damage & property loss, professional indemnity, workers compensation claims including advice and assistance with non-litigated and litigated claims, as required.
+</p>

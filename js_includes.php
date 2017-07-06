@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="<?= get_stylesheet_directory_uri(); ?>/layout/assets/images/gt_favicon.png">
